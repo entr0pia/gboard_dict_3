@@ -21369,7 +21369,7 @@
 光用	1	guang yong
 光永亮太	1	guang yong liang tai
 光宇	1	guang yu
-光遇  1	guang yu
+光·遇	1	guang yu
 广宇	1	guang yu
 光远	1	guang yuan
 光源方向	1	guang yuan fang xiang
