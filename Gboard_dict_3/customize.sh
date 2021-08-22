@@ -6,6 +6,11 @@ if [ -z "$uid" ]; then
     abort "请检查是否安装 Gboard"
     abort "退出安装"
 fi
+
+if [ -z "$MODPATH" ]; then
+    MODPATH="."
+fi
+
 mv /data/data/com.google.android.inputmethod.latin/files/user_dict_3_3 /data/data/com.google.android.inputmethod.latin/files/user_dict_3_3.bak
 cp -f $MODPATH/user_dict_3_3 /data/data/com.google.android.inputmethod.latin/files/user_dict_3_3
 chown $uid /data/data/com.google.android.inputmethod.latin/files/user_dict_3_3
