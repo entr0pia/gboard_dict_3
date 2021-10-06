@@ -1,6 +1,6 @@
 id=gboard-dict-3
 name=Gboard user_dict_3_3 词库
-version=v1.4.2
-versionCode=20210822
+version=v1.4.3
+versionCode=20211006
 author=entr0pia@GitHub
-description=用户词典 (user_dict_3_3), 支持简拼和双拼. 共80894个词条, 涵盖日常, 地名, 酷安, 及文法理工农医等专业词汇. 根据手机性能不同, 新词库需要1分钟左右生效. 测试方法: “光·遇”
+description=用户词典 (user_dict_3_3), 支持简拼和双拼. 共73734个词条, 涵盖日常, 地名, 酷安, 及文法理工农医等专业词汇. 根据手机性能不同, 新词库需要1分钟左右生效. 测试方法: “光·遇”
