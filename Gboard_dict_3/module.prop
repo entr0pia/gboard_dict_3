@@ -1,7 +1,7 @@
 id=gboard-dict-3
 name=Gboard user_dict_3_3 词库
-version=v2.0
-versionCode=20220305
+version=v2.0.1
+versionCode=20220308
 author=entr0pia@GitHub
-description=用户词典 (user_dict_3_3), 支持简拼和双拼. 共58113个词条, 以《现代汉语词典》第五版为基础, 添加部分专业词汇. 根据手机性能不同, 新词库需要1分钟左右生效. 测试方法: “光·遇”
+description=用户词典 (user_dict_3_3), 支持简拼和双拼. 共58053个词条, 以《现代汉语词典》第五版为基础, 添加部分专业词汇. 根据手机性能不同, 新词库需要1分钟左右生效. 测试方法: “光·遇”
 updateJson=https://raw.githubusercontent.com/entr0pia/Gboard_dict_3/master/update.json

@@ -1,6 +1,6 @@
 ## 语料库说明
 
-- ```user-dictionary.txt```: 标准谷歌拼音词库, 58113 个词条 (< UB 89400), 可直接导入谷歌拼音
+- ```user-dictionary.txt```: 标准谷歌拼音词库, 58053 个词条 (< UB 89400), 可直接导入谷歌拼音
 
 - ```Gboard词库.zip```: ```user-dictionary.txt``` 制作的 Gboard 个人字典, 仅支持全拼, 在 Gboard 设置中导入
 

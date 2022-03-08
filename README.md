@@ -5,7 +5,7 @@
 ## 词库特性
 
 1. 用户词典 (```user_dict_3_3```), 支持简拼和双拼
-2. 共58113个词条, 以《现代汉语词典》第五版为基础, 添加部分专业词汇
+2. 共58053个词条, 以《现代汉语词典》第五版为基础, 添加部分专业词汇
 
 
 ## 使用方法
@@ -18,12 +18,6 @@
 - 谷歌拼音/Gboard 个人字典 <br>
     从[语料库](https://github.com/entr0pia/Gboard_dict_3/tree/master/corpus)下载词典文件, 在谷歌拼音设置直接导入
 
-
-
-## Magisk 模块下载地址 (直链)
-
-1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip)
-2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip)
 
 ## Acknowledgments
 
