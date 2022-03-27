@@ -2,7 +2,6 @@
 
 Gboard 词库 Magisk 模块, 基于《现代汉语词典》
 
-> Magisk module of Gboard Dictionary, based on *Modern Chinese Dictionary*
 
 ## 词库特性
 
@@ -13,14 +12,31 @@ Gboard 词库 Magisk 模块, 基于《现代汉语词典》
 ## 使用方法
 
 - Gboard <br>
-    1. 下载 Magisk 模块. 用 Magisk 刷入;<br> 或解压文件, 在解压目录下以 root 权限执行 ```customize.sh``` 脚本 
-    2. 根据手机性能不同, 新词库需要1分钟左右生效 
-    3. 测试方法: “```光·遇```”
+    下载安装模块. 根据手机性能的不同, 新词库生效时间也有快有慢, 一般耗时一分钟左右. 打出`光·遇`一词进行测试
 
 - 谷歌拼音/Gboard 个人字典 <br>
     从[语料库](https://github.com/entr0pia/corpus-of-gboard_dict_3)下载字典文件, 在输入法设置直接导入
 
 
+---
+Magisk module of Gboard Dictionary, based on *Modern Chinese Dictionary*.
+
+## Feature
+
+1. With the `user_dict_3_3`, User Dictionary can support ShuangPing(双拼).
+2. A total of 58053 entries, based on the fifth edition of *Modern Chinese Dictionary (现代汉语词典)*, and adding some professional vocabulary.
+
+
+## Usage
+
+- Gboard <br>
+    Download and install the module. Depending on the performance of the mobile phone, the effective time of the new thesaurus is also fast or slow, generally it takes about one minute. Type the word `光·遇` to test.
+
+- Google PinYin / Gboard personal dictionary <br> 
+    Download dictionary file from [corpus](https://github.com/entr0pia/corpus-of-gboard_dict_3), and import dictionary in input method app's settings.
+
+
+---
 ## Acknowledgments
 
 1. [搜狗细胞词库](https://pinyin.sogou.com/dict/)
