@@ -1,10 +1,9 @@
 # 注意 这不是占位符！！这个代码的作用是将模块里的东西全部塞系统里，然后挂上默认权限
 SKIPUNZIP=0
 
-uid=$(ls -n /data/data | grep "com.google.android.inputmethod.latin" | awk '{print $3}')
+uid=$(dumpsys package com.google.android.inputmethod.latin | grep userId | sed '$d;s/[^0-9]//g')
 if [ -z "$uid" ]; then
     abort "请检查是否安装 Gboard"
-    abort "退出安装"
 fi
 
 if [ -z "$MODPATH" ]; then
