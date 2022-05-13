@@ -19,7 +19,7 @@ fi
 
 print() {
     ui_print "$@"
-    sleep 0.3
+    sleep 0.1
 }
 
 key_select() {
