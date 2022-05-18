@@ -12,7 +12,7 @@ Gboard 词库 Magisk 模块, 基于《现代汉语词典》
 ## 使用方法
 
 - Gboard <br>
-    下载安装模块. 根据手机性能的不同, 新词库生效时间也有快有慢, 一般耗时一分钟左右. 打出`光·遇`一词进行测试
+    从 [Release](https://github.com/entr0pia/gboard_dict_3/releases/latest) 页面下载, 使用官方的 Magisk Manager 安装模块 *(Fox Manager 可能无法检测到 Gboard)*. 根据手机性能的不同, 新词库生效时间也有快有慢, 一般耗时一分钟左右. 打出`光·遇`一词进行测试
 
 - 谷歌拼音/Gboard 个人字典 <br>
     从[语料库](https://github.com/entr0pia/corpus-of-gboard_dict_3)下载字典文件, 在输入法设置直接导入
